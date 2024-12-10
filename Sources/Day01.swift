@@ -1,7 +1,14 @@
+//
+//  Day01.swift
+//  AdventOfCode
+//
+//  Created by Erik Lexander on 22/11/2024.
+//
+
 import Algorithms
 
 @available(iOS 16.0, *)
-struct Day00: AdventDay {
+struct Day01: AdventDay {
     
   // Save your data in a corresponding text file in the `Data` directory.
   var data: String
